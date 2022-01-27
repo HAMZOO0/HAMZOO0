@@ -1,0 +1,24 @@
+#include<iostream>
+class A {
+	public:
+		static int a ;
+		
+};
+class B : public A
+{
+public:
+	void show(){
+	
+	std::cout<<a++<<std::endl;
+}
+};
+int A :: a ;
+using namespace std;
+main(void )
+{
+	B inh;
+	inh.show(); 
+	inh.show();
+
+	
+}
