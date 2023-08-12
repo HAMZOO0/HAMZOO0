@@ -1,18 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.center {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
 
-.big-gif {
-  max-height: 400px; /* Adjust this value as needed */
-}
-</style>
 </head>
 <body>
 
