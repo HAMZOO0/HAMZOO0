@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan</h1>
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif"](https://i.gifer.com/1yft.gif)  />
 </div>
 
 ###
