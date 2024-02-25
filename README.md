@@ -3,7 +3,7 @@
 <head>
 
 </head>
-<body>
+<body style:"backgound-color:"red";>
 
 <div class="center">
   <h1 align="center">Hi 👋, I'm Hamza Khan</h1>
