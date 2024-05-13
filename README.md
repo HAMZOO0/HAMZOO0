@@ -9,8 +9,18 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HAMZOO0&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HAMZOO0&theme=onedark&hide_border=true)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMZOO0&theme=onedark&hide_border=true&include_all_commits=false&count_private=false">
+
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZOO0&theme=onedark&hide_border=true">
+
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZOO0&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Readme Stats">
