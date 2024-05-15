@@ -9,20 +9,22 @@
 ---
 
 # 📊 GitHub Stats:
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZOO0&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Readme Stats" width="300">
+</p>
 
 <p align="center">
   <img  width="370"  src="https://github-readme-stats.vercel.app/api?username=HAMZOO0&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" >
   <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZOO0&theme=onedark&hide_border=true" >
 
 
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZOO0&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Readme Stats" width="300">
-</p>
 
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZOO0&radius=16&theme=one-dark&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" width="700"  />
+</div>
 
----
-
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
