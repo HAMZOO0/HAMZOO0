@@ -1,9 +1,10 @@
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhkcTRiZ3c0MzNleGVpcmM0dTFuendibDV4Y3E4c2hrcjl4MjUyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
+  <div>
+    <h2>💫 About Me:</h2>
+    <p>🔭 I’m currently working on Full Stack Web Development</p>
+    <p>🌱 I’m currently learning JavaScript and DSA</p>
+  </div>
+ 
 
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development <br>🌱 I’m currently learning JavaScript and DSA <br>
 
 ----
 
