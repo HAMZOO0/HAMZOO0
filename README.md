@@ -1,8 +1,8 @@
-  <div>
-    <h2>💫 About Me:</h2>
+
+# 💫 About Me:
     <p>🔭 I’m currently working on Full Stack Web Development</p>
     <p>🌱 I’m currently learning JavaScript and DSA</p>
-  </div>
+
  
 
 
