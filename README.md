@@ -1,8 +1,7 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development.
 
-🌱 I’m currently learning JavaScript and DSA
+🌱 I’m currently learning How to code
 
  
 
