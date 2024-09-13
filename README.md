@@ -2,12 +2,23 @@
 
 <h1 align="center">Hi , I'm Hamza Sajid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Everyone+Hamza%2C+here+...;Full+Stack+Web+Developer++;C%2B%2B+Developer;2D+Game+Developer)](https://git.io/typing-svg)
+<p  align="center">
+  <a   href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25&center=true&vCenter=true&width=435&lines=Hi+Everyone+Hamza%2C+here+...;Full+Stack+Web+Developer++;C%2B%2B+Developer;2D+Game+Developer" alt="Typing SVG" /></a>
 </p>
 
 ----
+
+
+
+<br><br>
+
+- :school: I am a `Computer Science Student` at [NUST](https://nust.edu.pk/).
+- :student: I’m currently doing BS in `Computer Science`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY WEBSITE](https://personal-portfolio-phi-mocha.vercel.app/).
+<br>
+
+---
 
 # 💻 Tech Stack:
 <div align="center">
