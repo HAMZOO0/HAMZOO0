@@ -1,9 +1,6 @@
 
 # 💫 About Me:
-
-🌱 I’m currently learning How to code
-
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Everyone+Hamza%2C+here+...;Full+Stack+Web+Developer++;C%2B%2B+Developer;2D+Game+Developer)](https://git.io/typing-svg)
 
 
 ----
