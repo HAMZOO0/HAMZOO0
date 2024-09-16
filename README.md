@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Hamza Sajid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p  align="center">
+<p  align="center"> 
  <a align="" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&ize=25&center=true&vCenter=true&width=550&height=100&lines=Full+Stack+Web+Developer++;2D+Game+Developer" alt="Typing SVG" /></a>
 </p>
 
