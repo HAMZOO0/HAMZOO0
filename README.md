@@ -83,10 +83,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZOO0&radius=16&theme=one-dark&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" width="700"  />
 </div>
-<img src="https://raw.githubusercontent.com/HAMZOO0/HAMZOO0/output/snake.svg" alt="Snake animation" />
-
 
 ###
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
