@@ -9,7 +9,7 @@
 ----
 
 
-
+ 
 <br><br>
 
 - :school: I am a `Computer Science Student` at [NUST](https://nust.edu.pk/).
