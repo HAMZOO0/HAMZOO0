@@ -86,6 +86,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZOO0&radius=16&theme=one-dark&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" width="700"  />
 </div>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+  </picture>
+  <p>
 ###
 
 
