@@ -40,8 +40,12 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" /><br></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" height="50" /><br></td>
+     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-NWDDg0jgqCmlKYimfFD0pcAVEko0-Phyhw&s)" height="50" /><br></td>
+ <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  /><br></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50" /><br></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" /><br></td>
+        <td align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
+<br></td>
     <td align="center"><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><br></td>
   </tr>
 </table>
