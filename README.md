@@ -23,7 +23,7 @@
   Check out my **[Portfolio Website](https://personal-portfolio-phi-mocha.vercel.app/)**!  
 
 ---
-<br>
+
 
 ### <p align="center">💻 Programming & Markup Languages:</p>
 <br>
@@ -39,7 +39,7 @@
 </table>
 
 ---
-<br>
+
 
 ### <p align="center">🛠️ Frameworks & Libraries:</p>
 <br>
@@ -54,8 +54,6 @@
 </table>
 
 ---
-<br>
-
 ### <p align="center">📂 Databases:</p>
 <br>
 
@@ -87,7 +85,7 @@
 </table>
 
 ---
-<br>
+
 
 ### <p align="center">📊 GitHub Stats:</p>
 <br>
