@@ -87,17 +87,26 @@
 
 ### <p align="center">📊 GitHub Stats:</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMZOO0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HAMZOO0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=HAMZOO0&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <br>
-  <br>
+###
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZOO0&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true" height="299" alt="activity-graph graph"  />
+<div align="left">
 </div>
-<br>
+
+###
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HAMZOO0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&order=2" height="182" alt="languages graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMZOO0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+    
+  <img src="https://streak-stats.demolab.com?user=HAMZOO0&locale=en&mode=daily&theme=react&hide_border=true&border_radius=20&order=3" height="162" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZOO0&radius=50&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+###
 
 ---
