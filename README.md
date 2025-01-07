@@ -107,6 +107,10 @@
 </div>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/contribution/profile-night-green.svg">
+  <img alt="GitHub Contributions 3D" src="/contribution/profile-night-green.svg" />
+</picture>
 
 ###
 
