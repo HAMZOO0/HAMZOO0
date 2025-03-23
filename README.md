@@ -108,9 +108,11 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/contribution/profile-night-green.svg">
-  <img alt="GitHub Contributions 3D" src="/contribution/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HAMZOO0/HAMZOO0/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img alt="GitHub Contributions 3D" src="https://raw.githubusercontent.com/HAMZOO0/HAMZOO0/main/profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
+
+
 
 ###
 
