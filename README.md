@@ -61,7 +61,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/><br>Flutter ></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="50"/><br>Qt</td>
     <td align="center"><img src="https://www.sfml-dev.org/images/logo.png" height="50"/><br>SFML</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SDL_logo.png" height="50"/><br>SDL2</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" height="50"/><br>SDL2</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vite" height="50"/><br>Vite</td>
   </tr>
 </table>
@@ -86,9 +86,9 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" height="40"/><br>Metamask</td>
-    <td align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVoAAACRCAMAAAC114CHAAAA8FBMVEUlNaH///8lNaAkNKIdL6..." height="40"/><br>Ethers.js</td>
-    <td align="center"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="40"/><br>Hardhat</td>
-    <td align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAflBMVEUbGxv///8AAA..." height="40"/><br>Wagmi</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFUSNF-z234F1xksK2jJh-nefR_ccdzr9iw&s" height="40"/><br>Ethers.js</td>
+    <td align="center"><img src="https://moralis.com/wp-content/uploads/web3wiki/24hardhat/6381641b6a60932fb3c3c2d9_crsLQ2lVok-0X37hZ_7RSl62vTm5GRP0Ws4xyPt4E5I-300x300.jpeg" height="40"/><br>Hardhat</td>
+    <td align="center"><img src="https://wagmi.sh/og.png" height="40"/><br>Wagmi</td>
   </tr>
   <tr>
     <td align="center"><img src="https://pbs.twimg.com/profile_images/1557391177665708032/FSuv7Zpo_400x400.png" height="40"/><br>RainbowKit</td>
