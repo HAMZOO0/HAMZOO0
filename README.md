@@ -38,7 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/> 
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" /><br><br>
    </td>
-     <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" /><br></td>
+     <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" /> &nbsp; 
+  <img src="https://camo.githubusercontent.com/59190e5f27cf62752cf96a365e6c923f7702ec3f22ec12d0ffa2da8dae00d4f7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d61726b646f776e" height="50" />
+</td>
+   
+
+
 </p>
 
 
