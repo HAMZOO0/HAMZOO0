@@ -25,103 +25,105 @@
 
 
 ---
-### <p align="center">💻 Programming & Markup Languages</p>
+## <div align="center">💻 Programming & Markup Languages</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="Solidity"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/> 
-   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" /><br><br>
-   </td>
-     <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" /> &nbsp; 
-  <img src="https://camo.githubusercontent.com/59190e5f27cf62752cf96a365e6c923f7702ec3f22ec12d0ffa2da8dae00d4f7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d61726b646f776e" height="50" />
-</td>
-   
+<div align="center">
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
 
 ---
 
-### <p align="center">🛠️ Frameworks & Libraries</p>
+## <div align="center">⚛️ Frameworks & Libraries</div>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50"/><br>React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" height="50"/><br>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="50"/><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50"/><br>Tailwind</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/><br>Bootstrap
-     </td>
-  </tr>
+<div align="center">
 
-  <tr>
-  <br>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/><br>Flutter ></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="50"/><br>Qt</td>
-    <td align="center"><img src="https://www.sfml-dev.org/images/logo.png" height="50"/><br>SFML</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg" height="50"/><br>SDL2</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vite" height="50"/><br>Vite</td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Qt](https://img.shields.io/badge/Qt-217346?style=for-the-badge&logo=qt&logoColor=white)&nbsp;
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)&nbsp;
+![SDL2](https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=SDL&logoColor=white)
 
-### <p align="center">📂 Databases</p>
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40"/><br>MySQL</td>
-    <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40"/><br>MongoDB</td>
-    <td align="center"><img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge" height="40"/><br>SQLite</td>
-    <td align="center"><img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge" height="40"/><br>Neo4j</td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### <p align="center">🌐 Blockchain & Web3</p>
+## <div align="center">🗄️ Databases</div>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" height="40"/><br>Metamask</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFUSNF-z234F1xksK2jJh-nefR_ccdzr9iw&s" height="40"/><br>Ethers.js</td>
-    <td align="center"><img src="https://moralis.com/wp-content/uploads/web3wiki/24hardhat/6381641b6a60932fb3c3c2d9_crsLQ2lVok-0X37hZ_7RSl62vTm5GRP0Ws4xyPt4E5I-300x300.jpeg" height="40"/><br>Hardhat</td>
-    <td align="center"><img src="https://wagmi.sh/og.png" height="40"/><br>Wagmi</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://pbs.twimg.com/profile_images/1557391177665708032/FSuv7Zpo_400x400.png" height="40"/><br>RainbowKit</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br>React Hot Toast</td>
-  </tr>
-</table>
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+</div>
 
 ---
 
-### <p align="center">🔧 Tools & Technologies</p>
+## <div align="center">⛓️ Blockchain & Web3</div>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40"/><br>Git</td>
-    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40"/><br>GitHub</td>
-    <td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40"/><br>Postman</td>
-    <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40"/><br>Linux</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40"/><br>Figma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" height="40"/><br>Arduino</td>
-    <td align="center"><img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge" height="40"/><br>Fedora</td>
-    <td align="center"><img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40"/><br>NPM</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40"/><br>Cursor</td>
-  </tr>
-</table>
+<div align="center">
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logoColor=black)
+
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)&nbsp;
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white)&nbsp;
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)&nbsp;
+![Wagmi](https://img.shields.io/badge/Wagmi-1A202C?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![RainbowKit](https://img.shields.io/badge/RainbowKit-2E77BC?style=for-the-badge&logo=rainbow&logoColor=white)&nbsp;
+![React Hot Toast](https://img.shields.io/badge/React_Hot_Toast-FFCA28?style=for-the-badge&logo=react&logoColor=black)
+
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+</div>
+
+---
+
+## <div align="center">🛠️ Tools & Technologies</div>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+</div>
 
 ---
 
