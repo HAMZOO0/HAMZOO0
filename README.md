@@ -129,6 +129,16 @@
 
 ---
 
+---
+
+## <div align="center">⏱️ Weekly Development Breakdown</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+
 ### <p align="center">📊 GitHub Stats:</p>
 
 
