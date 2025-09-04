@@ -131,10 +131,13 @@
 
 ---
 
-## <div align="center">⏱️ Weekly Development Breakdown</div>
+## 🔥 All Time Coding Stats
+<!--START_SECTION:waka:alltime-->
+<!--END_SECTION:waka:alltime-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 📚 Languages Breakdown
+<!--START_SECTION:waka:languages-->
+<!--END_SECTION:waka:languages-->
 
 ---
 
