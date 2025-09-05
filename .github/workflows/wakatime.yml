@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
+      
       - name: Update WakaTime stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -22,10 +22,7 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_LOC_CHART: "True"
           SHOW_LANGUAGE_CHART: "True"
-          # You can also set the following to change the section names, but by default it uses:
-          # SECTION_NAME: WakaTime Stats
-          # You might need to adjust your README to have the correct section markers.
-
+          
       - name: Commit & Push
         run: |
           git config user.name github-actions
