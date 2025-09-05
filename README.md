@@ -132,12 +132,8 @@
 ---
 
 ## 🔥 All Time Coding Stats
-<!--START_SECTION:waka:alltime-->
-<!--END_SECTION:waka:alltime-->
-
-## 📚 Languages Breakdown
-<!--START_SECTION:waka:languages-->
-<!--END_SECTION:waka:languages-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
