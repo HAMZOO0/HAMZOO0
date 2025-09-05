@@ -9,9 +9,28 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.0
+      - uses: actions/checkout@v3
+      
+      # Update all time stats
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka:alltime
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
+      
+      # Update languages breakdown
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka:languages
+          BLOCKS: languages
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Updated WakaTime stats" || exit 0
+          git push
