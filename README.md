@@ -144,12 +144,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
----
-
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 ### <p align="center">📊 GitHub Stats:</p>
 
