@@ -10,23 +10,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
-      # Update all time stats
-      - uses: athul/waka-readme@master
+
+      - name: Update WakaTime stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka:alltime
-          SHOW_TITLE: true
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-      
-      # Update languages breakdown
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka:languages
-          BLOCKS: languages
-          
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGES: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_LANGUAGE_CHART: "True"
+          # You can also set the following to change the section names, but by default it uses:
+          # SECTION_NAME: WakaTime Stats
+          # You might need to adjust your README to have the correct section markers.
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
