@@ -176,14 +176,15 @@ No activity tracked
 
 # My Projects & Repositories 🚀
 
-## Full Stack Development 💻
+## Full Stack Development & AI 💻
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [AI-Assistant-CFO](https://github.com/HAMZOO0/AI-Assistant-CFO) | A comprehensive AI-powered financial management platform designed for CFOs, finance managers, and business owners to make better financial decisions through real-time data insights, forecasting, and AI-driven recommendations. |
 | 2. | [ecommerce-inventory-ejs-sqlite](https://github.com/HAMZOO0/ecommerce-inventory-ejs-sqlite) | E-commerce Product Inventory System built using Node.js, Express, EJS, and SQLite. Allows admins to manage products (CRUD operations) and sellers to manage their own inventory. |
 | 3. | [Mehfil](https://github.com/HAMZOO0/Mehfil) | A modern social media platform designed to connect users, share content, and foster online communities. Built with MERN stack, featuring user profiles, real-time interactions, and engaging interface. |
 | 4. | [Blog-Write](https://github.com/HAMZOO0/Blog-Write) | Full-featured blogging platform built with modern frontend tools. Users can create, update, and delete blog posts, as well as manage their accounts with rich user experience. |
-| 5 . | [AnonyMe](https://github.com/HAMZOO0/AnonyMe) | A modern, full-stack web application built with Next.js that enables users to receive completely anonymous feedback from others while maintaining privacy and security. |
+| 5. | [AnonyMe](https://github.com/HAMZOO0/AnonyMe) | A modern, full-stack web application built with Next.js that enables users to receive completely anonymous feedback from others while maintaining privacy and security. |
+| 6. | [SunPulse Voices](https://github.com/HAMZOO0/SunPulse-Voices) | SunPulse Voices is an innovative platform that bridges human emotions with scientific data from NASA. Users can anonymously share their thoughts and feelings, which are then analyzed using AI to correlate with space weather, climate patterns, and health impacts. The platform provides real-time visualizations and scientific insights based on NASA's extensive datasets.|
 
 ## Blockchain Development ⛓️
 | # | Project | Description |
