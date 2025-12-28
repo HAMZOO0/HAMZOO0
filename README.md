@@ -11,13 +11,12 @@
 
 ### About Me:
 
-- 🎓 **Computer Science Student** at [NUST](https://nust.edu.pk/).  
-- 💻 4+ years coding experience – from **C/C++ & OOP** to **MERN full-stack development**.  
-- 🔗 Skilled in **Blockchain, Cloud, AI, IoT, and DevOps**.  
-- 📱 Exploring **Flutter** for cross-platform apps.  
-- 🚀 **Founder of Zynxis** (2025) – building real-world client solutions.  
-- 💼 Completed **4 internships**, including **Full-Stack Blockchain Developer**.  
-- 🏆 Winner of **Digital Pakistan Speed Programming Competition** + contributor at **SWOC**.  
+🔹 Computer Science Student at [NUST](https://nust.edu.pk/)  
+🔹 Part-Time Software Engineer working on real-world projects  
+🔹 Founder of Zynxis – an AI service-based startup  
+🔹 Open-Source Contributor actively contributing to projects  
+🔹 Skilled in Full-Stack Web Development, Next.js, and Blockchain
+
 
 🔗 [Portfolio Website](https://personal-portfolio-phi-mocha.vercel.app/)
 
