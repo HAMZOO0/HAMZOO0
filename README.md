@@ -172,6 +172,7 @@
 | 4. | [Blog-Write](https://github.com/HAMZOO0/Blog-Write) | Full-featured blogging platform built with modern frontend tools. Users can create, update, and delete blog posts, as well as manage their accounts with rich user experience. |
 | 5. | [AnonyMe](https://github.com/HAMZOO0/AnonyMe) | A modern, full-stack web application built with Next.js that enables users to receive completely anonymous feedback from others while maintaining privacy and security. |
 | 6. | [SunPulse Voices](https://github.com/HAMZOO0/SunPulse-Voices) | SunPulse Voices is an innovative platform that bridges human emotions with scientific data from NASA. Users can anonymously share their thoughts and feelings, which are then analyzed using AI to correlate with space weather, climate patterns, and health impacts. The platform provides real-time visualizations and scientific insights based on NASA's extensive datasets.|
+| 7. | [CyberNewsMail](https://github.com) | Gen AI-powered newsletter system that automatically curates and sends daily cybersecurity news directly to your email. Keeps users up-to-date with latest threats, exploits, and industry insights. |
 
 ## Blockchain Development ⛓️
 | # | Project | Description |
