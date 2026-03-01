@@ -163,7 +163,7 @@
 
 # My Projects & Repositories 🚀
 
-## Full Stack Development & AI 💻
+## Full Stack Development & Gen AI 💻
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [AI-Assistant-CFO](https://github.com/HAMZOO0/AI-Assistant-CFO) | A comprehensive AI-powered financial management platform designed for CFOs, finance managers, and business owners to make better financial decisions through real-time data insights, forecasting, and AI-driven recommendations. |
@@ -182,7 +182,7 @@
 | 4. | [Web-3.0-Real-Estate](https://github.com/HAMZOO0/Web-3.0-Real-Estate) | Decentralized real estate platform built on Ethereum blockchain. Enables secure buying, selling, and lending of properties using smart contracts with transparency. |
 | 5. | [Ether-Chess-OTC](https://github.com/HAMZOO0/Ether-Chess-OTC) | Open source contribution - blockchain-based chess platform with over-the-counter trading capabilities. |
 
-## AI & Machine Learning 🧠
+## Machine & Deep Learning 🧠
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
 | 1. | Iris Dataset EDA | Exploratory Data Analysis on the classic Iris dataset with visualization and statistical insights. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
