@@ -281,5 +281,6 @@
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [Voice-Control-Home-Automation](https://github.com/HAMZOO0/Voice-Control-Home-Automation) | DLD semester project integrating ESP32 microcontrollers for voice-controlled home automation system, accessible via Alexa voice assistant. |
+| 2. | [ESPWatch-IoT-Attack-Surface-Monitor](https://github.com/HAMZOO0/ESPWatch-IoT-Attack-Surface-Monitor) | Lightweight ESP32-based honeypot for ethical network monitoring, attacker analysis, and IoT security learning. Logs HTTP requests, TCP probes, Nmap scans, and suspicious behaviors for safe, educational lab use. |
 
 ---
