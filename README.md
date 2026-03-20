@@ -18,8 +18,9 @@
 🔹 Skilled in Full-Stack Web Development, Next.js, and Blockchain
 
 
-🔗 [Portfolio Website Old ](https://personal-portfolio-phi-mocha.vercel.app/)
-🔗 [Portfolio Website New](https://hamza-sajid-portfolio.vercel.app/)
+*  [Portfolio Website Old ](https://personal-portfolio-phi-mocha.vercel.app/)
+
+*  [Portfolio Website New](https://hamza-sajid-portfolio.vercel.app/)
 
 
 
