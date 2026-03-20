@@ -161,9 +161,9 @@
 
 ---
 
-# My Projects & Repositories 🚀
+# My Projects & Repositories 
 
-## Full Stack Development & Gen AI 💻
+## Full Stack Development & Gen AI 
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [AI-Assistant-CFO](https://github.com/HAMZOO0/AI-Assistant-CFO) | A comprehensive AI-powered financial management platform designed for CFOs, finance managers, and business owners to make better financial decisions through real-time data insights, forecasting, and AI-driven recommendations. |
@@ -183,7 +183,7 @@
 | 4. | [Web-3.0-Real-Estate](https://github.com/HAMZOO0/Web-3.0-Real-Estate) | Decentralized real estate platform built on Ethereum blockchain. Enables secure buying, selling, and lending of properties using smart contracts with transparency. |
 | 5. | [Ether-Chess-OTC](https://github.com/HAMZOO0/Ether-Chess-OTC) | Open source contribution - blockchain-based chess platform with over-the-counter trading capabilities. |
 
-## Machine & Deep Learning 🧠
+## Machine & Deep Learning 
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
 | 1. | Iris Dataset EDA | Exploratory Data Analysis on the classic Iris dataset with visualization and statistical insights. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
@@ -199,7 +199,7 @@
 | 11. | Search Algorithms (BFS/DFS) | Implementation of fundamental search algorithms for graph traversal and problem solving. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
 | 12. | BookBuddy AI | AI-powered mobile app connecting users with 20+ million books. Features book search, summaries, and AI chat for insights, recommendations, and story discussions. | [BookBuddy-AI](https://github.com/HAMZOO0/BookBuddy-AI) |
 
-## Mobile Development 📱
+## Mobile Development 
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
 | 1. | Currency Converter (Flutter) | Cross-platform currency converter app with real-time exchange rates and modern UI. | [Flutter-Projects](https://github.com/HAMZOO0/Flutter-Projects) |
@@ -207,7 +207,7 @@
 | 3. | BookBuddy AI | AI-powered mobile app connecting users with 20+ million books. Features book search, summaries, and AI chat for insights, recommendations, and story discussions. | [BookBuddy-AI](https://github.com/HAMZOO0/BookBuddy-AI) |
 | 4. | ChatBot Flutter | AI-powered chatbot application built with Flutter for seamless cross-platform communication. | [chatbot-flutter](https://github.com/HAMZOO0/chatbot-flutter) |
 
-## Frontend Development 🎨
+## Frontend Development 
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
 | 1. | NextAnimate | Modern project management platform template built with Next.js and TypeScript. Features task management, real-time communication, file sharing, and collaborative editing. | [NextAnimate](https://github.com/HAMZOO0/NextAnimate) |
@@ -220,7 +220,7 @@
 | 8. | UltraEdit Clone | Text editor interface replication with syntax highlighting and file management. | [Front-End-Projects](https://github.com/HAMZOO0/Front-End-Projects) |
 | 9. | YouTube Clone | YouTube-style video platform interface with video player and channel management. | [Front-End-Projects](https://github.com/HAMZOO0/Front-End-Projects) |
 
-## React.js Development ⚛️
+## React.js Development 
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
 | 1. | Background Changer | React app for dynamic background color changing with smooth transitions and color picker functionality. | [React-Projects](https://github.com/HAMZOO0/React-Projects) |
@@ -231,7 +231,7 @@
 | 6. | Web Page Router/Routing | Single Page Application (SPA) with React Router implementation for seamless navigation. | [React-Projects](https://github.com/HAMZOO0/React-Projects) |
 | 7. | Password Analyzer and Generator | React.js application for generating secure passwords with customizable criteria and dynamic strength evaluation with user-friendly feedback mechanisms. | [Password-Analyzer-and-Generator](https://github.com/HAMZOO0/Password-Analyzer-and-Generator) |
 
-## JavaScript Development 🟨
+## JavaScript Development 
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | BMI Calculator | Interactive BMI calculation tool with user-friendly interface and health category display. |
@@ -247,7 +247,7 @@
 | 11. | Unlimited Background Color | Continuous background color generation with smooth animations. |
 | 12. | [JavaScript-Projects Repository](https://github.com/HAMZOO0/JavaScript-Projects) | **Complete Collection:** Access all JavaScript projects in one repository. |
 
-## C++ Development ⚡
+## C++ Development 
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
 | 1. | Betting Game | Console-based betting simulation game with multiple game modes and score tracking. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
@@ -267,18 +267,18 @@
 | 15. | Breakout Game | Brick-breaking game with physics, power-ups, and multiple levels using SFML. | [SFML-Projects](https://github.com/HAMZOO0/SFML-Projects) |
 | 16. | Tic-Tac-Toe (SFML) | Interactive tic-tac-toe game with AI opponent and graphics interface. | [SFML-Projects](https://github.com/HAMZOO0/SFML-Projects) |
 
-## Backend Development 🔧
+## Backend Development 
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [Video-Streaming](https://github.com/HAMZOO0/Video-Streaming) | Modern video streaming platform with robust backend for uploading, viewing, and managing video content with user-friendly interface. |
 | 2. | [File-Sharing-Platform](https://github.com/HAMZOO0/File-Sharing-Platform-) | Secure file upload platform using Node.js and Express. Generates shareable links with smooth file handling and security measures. |
 
-## Database Development 🗄️
+## Database Development 
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [database-project](https://github.com/HAMZOO0/database-project) | Complete MySQL replication of Telemart website database including schema setup, sample data population, query testing, and Entity-Relationship Diagram (ERD). |
 
-## IoT & Hardware Projects 🏠
+## IoT & Hardware Projects 
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [Voice-Control-Home-Automation](https://github.com/HAMZOO0/Voice-Control-Home-Automation) | DLD semester project integrating ESP32 microcontrollers for voice-controlled home automation system, accessible via Alexa voice assistant. |
