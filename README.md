@@ -11,6 +11,8 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/HAMZOO0/HAMZOO0/main/assets/banner.gif" alt="Coding under the stars" width="100%"/>
+
 
 ---
 
@@ -28,6 +30,19 @@
 |  Old | [View Site](https://personal-portfolio-phi-mocha.vercel.app/) |
 |  New | [View Site](https://hamza-sajid-portfolio.vercel.app/) |
 
+
+---
+
+## 🚀 Featured Projects
+
+| # | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 1 | [ScholarMind — AI Research Agent](https://github.com/HAMZOO0/ScholarMind-Research-Agent) | Autonomous research agent with a LangChain ReAct loop, persistent per-user SQLite memory, and 7 tools (web, arXiv + full PDF reading, PubMed, YouTube transcripts, GitHub). Features a 5-model Groq cascade for zero-drop rate-limit recovery, slash-command tool routing, and a FastMCP server. | Python, LangChain, Groq, Streamlit, SQLite, FastMCP |
+| 2 | [FloodSense-PK — Flood Intelligence & Early Warning](https://github.com/HAMZOO0/FloodSense-PK-RealTime-Flood-Detection-Sentinel1-UNet) | National flood monitoring platform for Pakistan fusing Sentinel-1 SAR + U-Net (ResNet34, IoU 0.55) flood detection, a 2010 Landsat-5 historical benchmark, and live FFD river data. Includes a four-agent disaster workflow, Qdrant-backed RAG assistant, React + FastAPI web console, and a Flet mobile alert app. [Live demo](https://floodsense-pk.streamlit.app/) | PyTorch, Google Earth Engine, Streamlit, React 19, FastAPI, MongoDB, Qdrant, Gemini/Groq |
+| 3 | [Qdrant-Redis RAG Pipeline](https://github.com/HAMZOO0/Qdrant-Redis-RAG-Pipeline) | Production-style async RAG system that decouples the API from AI processing using Redis Queue workers. FastAPI returns a job ID instantly while background workers handle embedding, Qdrant vector search, and Groq LLM generation; clients poll for results. | FastAPI, Redis (RQ), Qdrant, HuggingFace, Groq, Docker |
+| 4 | [Flow-Based Hybrid IDS](https://github.com/HAMZOO0/Flow-Based-IDS-with-Heuristic-DL-Fusion) | Real-time intrusion detection system fusing a rule-based heuristic engine with a PyTorch MLP (98.25% validation accuracy) to detect DoS, DDoS, port scanning, and brute-force attacks on live traffic. Logs to Supabase with a live dashboard and companion mobile app. | Python, PyTorch, NFStreamer, Supabase, React Native |
+| 5 | [AgenticAST — LLM-Driven Compiler Security](https://github.com/HAMZOO0/AgenticAST-LLM-Driven-Semantic-Security-in-Compilers) | Custom Flex/Bison compiler that exports the AST as JSON and passes it to a Groq-powered LLM agent (Llama 3.3-70B) for semantic security auditing — blocking unsafe code (e.g. infinite loops) before execution. | Flex, Bison, C/C++, Python, Groq |
+| 6 | [ESPWatch — IoT Honeypot](https://github.com/HAMZOO0/ESPWatch-IoT-Attack-Surface-Monitor) | Lightweight ESP32 honeypot that serves a fake IoT admin panel and logs HTTP requests, login attempts, TCP probes on port 4444, raw payload hex dumps, and Nmap aggressive-scan fingerprints — for safe, LAN-only security learning. | C++ (Arduino), ESP32, TCP/IP |
 
 ---
 ## <div align="center">💻 Programming & Markup Languages</div>
