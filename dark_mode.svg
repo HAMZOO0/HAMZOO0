@@ -17,47 +17,47 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="10px">
-<tspan x="15" y="26">````````````''^^^^^'```'^^,,,^,,:;;:'',^:!!!;^. ^;:'^;iii:'``.':''</tspan>
-<tspan x="15" y="38">``''````````'^,,,,^^```',;:,,,;::::^`'''i|l|!^..,i,';!i|i:```.^;^'</tspan>
-<tspan x="15" y="50">``''````'```',,,:::^'..,;^,;!;,'`,,^' `.'!!|!^..:!';iilli,``.`:;''</tspan>
-<tspan x="15" y="62">`'''````'``'^,:::::^'^il;,!||:,'^;!!||^,,^'.``.`!::!;l~~|:``.'!!'`</tspan>
-<tspan x="15" y="74">`'^'```''``'',::;;;:',,':ll!;;i;^,||lII:^'^,`  'l||:i~+~i:`` 'i!`,</tspan>
-<tspan x="15" y="86">`'^'```''``'^;!;;!;` .`',!||||!;^.``..''....`. '|Ii!I+?~!,`..'i!:|</tspan>
-<tspan x="15" y="98">`^^''``''```,!i!!i^ ^;:,;!!!!:'                 `;!i~?r~;,```^|ill</tspan>
-<tspan x="15" y="110">'^^'``'''``';|||ii,':, .^:!;,::,^^,:;!;,'`.      `i|~jr~:,```:|ill</tspan>
-<tspan x="15" y="122">',^'```''''^!l||iii:,::^^:!luXzzccvvunjI|i:'.    !Il?xx~:^'`'i||ll</tspan>
-<tspan x="15" y="134">^,^````'''',|Il||!;:^lLpqwmb#MMohbdpmCvr~|:.    !~~+rnxl:^'`^l|lI~</tspan>
-<tspan x="15" y="146">^:^```'^'',illl||;i, jhdOJuncUZh#okOz?!:::;^   :+l+ruuxl:^'':I|II+</tspan>
-<tspan x="15" y="158">,:^``'','':iI~llilYO~xmYXcnl'  IJX|   ''''`^` ^i|l?uzvxl:^^';~l+?j</tspan>
-<tspan x="15" y="170">,:^`'',,':lI~~ll|?pknU0OZcv~,:+IOC``:|'. .;|' `.,~jcUXxl:,,'i?~jjj</tspan>
-<tspan x="15" y="182">:;^`'^,,^!|il+~ll!Z#LQWkWhwQQmZmBkx!++l|l+rl'...~+xUCUnl:,,'l?I~?j</tspan>
-<tspan x="15" y="194">:;'`'^::,^;I+?+~~!v@h0WMM%%WapdB$80+jLZm0U~!'  |vrcQ0Jnl::,'I??rxr</tspan>
-<tspan x="15" y="206">;;'`',;;^:|+j?+++||LkOhW%8oqpbwmdCl!;rJJul;:'^lucnJOZCn|;:,,+jrxxx</tspan>
-<tspan x="15" y="218">!:''',!;^!+rj????|~rzYZbhadd#MpQ+,``:!i~l:,'n0JvzvJOZCul!;,!rrrxxx</tspan>
-<tspan x="15" y="230">!:''':i:,!?xrjjj?I?vXXzLwbpCJLO0zu+;^^:i;^.jqa0zUUQmmYu+!;,~nxnnnx</tspan>
-<tspan x="15" y="242">!:``^!|::|runnxxr+rcYUCYYOqh#kZJcxI::ii:^'rZhM0UCQZpwYxI!;,xXuczvx</tspan>
-<tspan x="15" y="254">i,``,ii;;+uuuunnx+nYXUhqXxzZkoobOUujl;,'`^Xk8oLC0OmqZXji;:;xYcXYzn</tspan>
-<tspan x="15" y="266">!^`':|!;irvvvcccnjxjim8bkLrl~?jr+~|:,`.`.'^CBhLLZZmwOX+i;;!cYcYUXn</tspan>
-<tspan x="15" y="278">!^`';li!~nccuxj+I!,:l8$pmkqLn|,''``````  !, lvcJZqddOz~!!;|XJYJJzx</tspan>
-<tspan x="15" y="290">;'',ili!+?~l!;;;;::!~8$@pJZpZJv?|;,,,' !lli   .,|jUOOcI|i!~UUJCUvr</tspan>
-<tspan x="15" y="302">:''',,^:!;;;;:;!!!ii|h$$$aUYQQCzx?+I!|0ZrIi`'`     'il!i|~xCCLLYur</tspan>
-<tspan x="15" y="314">^^^^,:!i!i!!!;;!!iii!w$@$$aQXzYYzvuvYpbCXn~!,'`''`'^''''^,i~?vUXvn</tspan>
-<tspan x="15" y="326">::;!!i!!!i!iii||iii|!0$$MYJ8WkCYCLmpwv?zULx~!^'^^,,,,,,,,^'```^|vx</tspan>
-<tspan x="15" y="338">;;!!!!;!ii!i|i|||ii|;L%ZYQZda#a0UwakZLO?uZLc|:^^,:,,^:,,,:,,,'` +r</tspan>
-<tspan x="15" y="350">:!;;!!!iiiiii|||l|||!~JOkW%W%B%#ZO#%hdrJkoWp+;^,,:::'::::::,,^^ lI</tspan>
-<tspan x="15" y="362">,;:;;;!!ii|||||lll||!~o$$$$@@@$$$%8aC|LM%Mbqx!,^,:;:':;::::,,^^``:</tspan>
-<tspan x="15" y="374">^::;;;!iii|||||||||l|lZbaM%%%B%qUJYncqakdk#kxi,,,:;:'::::,,^^'^.  </tspan>
-<tspan x="15" y="386">'::;;!iiii||i|||lllll,xpoMW8%$kOpoooWbwo@%qQxi:,::;^':,,,^^'''^   </tspan>
-<tspan x="15" y="398">`^::;;!!!!iiii||llll|:La%@BB@Bho$$8hhkB@awh$X!:,,::''^^^^^''`''   </tspan>
-<tspan x="15" y="410">`'^::;:;;!!!iii||l|||,UaM8%%B8a%$%W#MB#ba$$hji,^,:,`^^,^^'''`''   </tspan>
-<tspan x="15" y="422">``'^,::;;;;;!!!ii||ii,uoMM8B%%B$8%BpMoh@$aCX~!,^,,'`^^^'''''`'`.  </tspan>
-<tspan x="15" y="434">```'^,:::::::;;!!iii!:Iq#W8%@$$8W%#a@B$80Ybbli^^,,``''''`'^'``....</tspan>
-<tspan x="15" y="446">```''^^,,,,,,:::!!ii!::Yk#MM%$BW#W%$@%MwpW@p|!^^,'`'''`'````````` </tspan>
-<tspan x="15" y="458">````''^^,,:::::::!!i!,^nw#8WW%MbLM@ohkbbhoMZi;^,,``````'```````...</tspan>
-<tspan x="15" y="470">````''''^,::;;;:::!!!,'?LpbdhW#hOo#doaoooaaC!:^:'``````````````.``</tspan>
-<tspan x="15" y="482">`````'''''^,::;;;::;;,`!vZpb#@#pbkpdhakqmQOn;:,,`````````````````.</tspan>
-<tspan x="15" y="494">`````'''''''^,,,:,^::,`^!rJ0mhbqmbbmawj??jvI;::'````````````````..</tspan>
-<tspan x="15" y="506">`````''''''''''^^^''^^`:i~xv0kqLUw0XbcuQYUXl;:^`````````````````.`</tspan>
+<tspan x="15" y="26">.....``'''^^''`. .`'^:,,^',:::::^..`'';iii!;^   ,!:`';!!ii:'</tspan>
+<tspan x="15" y="38">.`....`^^^,^^'`..  ^;:^''^:,^','^^. '.:|lIli^   :i'.;!;i|i:'</tspan>
+<tspan x="15" y="50">.`....^^^^^::,'   '!'.^!|!^`  ','.     ',,i!,.  !! ;!;|ll|:`</tspan>
+<tspan x="15" y="62">``..`'^,,,,,,^``'|+!^'!ll;,^',;;!!~|.^:^`      .i^^!^!l~I|;`</tspan>
+<tspan x="15" y="74">`` .``',,,::::,':i':|l|:^'::'`,Il++j+,:^':^    ^~!i,^|~+I|;`</tspan>
+<tspan x="15" y="86">``..``^::::;!;.     ^||i||II|,.',`^'!,    '^.  ;~Il:;I+?~!;`</tspan>
+<tspan x="15" y="98">`...``:!;;;;!   `::;!!!i!!,'`                  ':l!:l~+j+;:`</tspan>
+<tspan x="15" y="110">`....';!!!!!: .:i,`,:!!;;:^.                     :!;|~jr+,:`</tspan>
+<tspan x="15" y="122">`...`,i||i!i: .,'  ',::,' ``    .'^,^'`           i!l+rx+,,`</tspan>
+<tspan x="15" y="134">``..':||i!!!!,,:^   `^;:irr???jjrxxr+l|i:^`.     ^liI?rx~,^`</tspan>
+<tspan x="15" y="146">`.`.`:|l||i!;i`.!jxI|lInOwwwmO0LCUzvn?li!^`     'IIl~rnxI,'`</tspan>
+<tspan x="15" y="158">````^|II||i!,;',lp%$$@%$$$$$B8M##okOzn?l!'      ~~~+jnnxl,'`</tspan>
+<tspan x="15" y="170">'`.,!|ll|ii:^;  johOY?||?vCkW88WkQn|^``^;!'    |?|~jnunxl,''</tspan>
+<tspan x="15" y="182">'..:!iIll|!,rLz uMCuzzri.   u0Lr     ```. '   iII|~nccvnl,''</tspan>
+<tspan x="15" y="194">' '!|~+l||iiZkB|YYumzvU?;^. 'Un  .:!,^'`''!' `^ :I~uXYvxl:''</tspan>
+<tspan x="15" y="206">'`i~lI~Il|l,O#0,Z#Z#0nu|^:+Jj$a|.^!i     ~I.    !I+cJCXxl:'^</tspan>
+<tspan x="15" y="218">'^!;;i~~Ill,xBBJ0$p8$WbwwhMOa$oX!Ij~I|l+nu|' . `rIrYCLYx|:^^</tspan>
+<tspan x="15" y="230">^^.:I~++~~~!iW$OQ@%oM%$$$oOa$$@dr;XqpkdwXi!'   +z?vLO0Yx|,,,</tspan>
+<tspan x="15" y="242">'',i~+?+++~|`u$#LM%$$B#mJJko8$%L+j:YOOUx!::   lccrYOmZUx|::,</tspan>
+<tspan x="15" y="254">'':I?jj+++?|ilvZCdMW8Wkb@$buzr`   ^~xvx|,^.^jvcvzxJOZZJxi::,</tspan>
+<tspan x="15" y="266">^'i?xj????j|ijuccQpbahdpb#M#Z|l!,:!^`!l:'` UbwccXuJOmOJv|;;,</tspan>
+<tspan x="15" y="278">^^i?rjj?jj?lIxcYXvCZpowvuzUQJzn~!' ',ii'. xbMbzXJUQmpOcu+;;:</tspan>
+<tspan x="15" y="290">^,|runxxrrr~?uzYYzcYOwqa%#w0Lzzr:`,ii;^` xqbBbXJCLZqkZcrI;:,</tspan>
+<tspan x="15" y="302">,:~uvunnxxn~?cXCJhpuxJqM8WMpLcjIlIi!,'' |mqW@wYC0Zmpd0cji:::</tspan>
+<tspan x="15" y="314">:!ruuuuuuun~xYJrY8kdv|lvmhoWMdwCu~!^`   :Y%$80UQmZZwwQc+!:,:</tspan>
+<tspan x="15" y="326">;lxvvvcczzvjxj! o$dMkQj, '^,'.^`.`.     ' J$BOUQZmwpqQvl!:::</tspan>
+<tspan x="15" y="338">i?ucXzcur?I;``'+$$dQ#aqQui^.    ..     .l  :XUCZdddpwLul!;:;</tspan>
+<tspan x="15" y="350">Inux+i:^^,,,';:?$$$qzwkdmCv?|;^'```'  'iI:    ^lvQb#bOxi!;:!</tspan>
+<tspan x="15" y="362">!i:,,,:;!!;;;;:I$$$$hxJqwOLXxli;:;;  YviI:        `IcCxlllll</tspan>
+<tspan x="15" y="374">;:!!;!^':;;!!!!;W$$$$%crJ0QJXuxj?I^r$anI~:.'    .     '':!I?</tspan>
+<tspan x="15" y="386">!!!;!!!::!!!!!!^k$$$$$8QxxzJYzvurxZWoCUvxi!^...`. .'^'`.. .,</tspan>
+<tspan x="15" y="398">;;!;i!!ii|!!!!i^q$$$#uJ$$aJuUJUQkowj;uZ0Y~l:'`'''''^^^^^^^^'</tspan>
+<tspan x="15" y="410">!!!;!iiii|i!i!|'w$$prnCko8@ZJ0w#qwC?LX,CZxn!,`''^,^,^^,^^^^^</tspan>
+<tspan x="15" y="422">!!!!!i!i|||iii|`Q#nxwokk#oh#LcZo8#Oom,XwwqYi:`'^,,^,`',^',,,</tspan>
+<tspan x="15" y="434">!!!ii!i|||||iii,^cpMM@$@$$$$MmJp$h%w,0aWB$M?;''^,:,:''::,,,,</tspan>
+<tspan x="15" y="446">!!!iiiii||||i!|,lW$$$$@@$$$$$$$$$@n JM$$%d0+!^'',:,;``::,,,,</tspan>
+<tspan x="15" y="458">!!!i|i|ii|||||l;l@@B@$$$$@$$amQYl^!O%%amOk$c!:'^,,:!`'::,,,^</tspan>
+<tspan x="15" y="470">!!i||iiii||||||i |XZqho#WB$Oc?XOQk88pOb%$%JIi:'^,,:; ^:,:,^^</tspan>
+<tspan x="15" y="482">!!iiiiiii|ll||||.c#$$@@@@$BZk$$$M@#Ow@$$qXdc!:'^,,:, ^^^^^''</tspan>
+<tspan x="15" y="494">;;!;!!!iii|l||||.LhW$@@@$$Wb8$$$khkh$$#mpB$Y;:'^,,:` '``''''</tspan>
+<tspan x="15" y="506">:;;;;!!!ii||||ii'Ua#%BB@$$Mo@$@8MMB$%adM$$8ni:^^^,,.`''^^'''</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">hamza@sajid</tspan> -————————————————————————————————————————————-—-
@@ -74,7 +74,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Blockchain DApps, AI/ML, 2D Games</tspan>
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Arduino, ESP32, IoT Tinkering</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">compilecrewpvtlimited@gmail.com</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">hamzakhan174722@gmail.com</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">hamza-sajid-portfolio.vercel.app</tspan>
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">HAMZOO0</tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Hamza Sajid</tspan>
