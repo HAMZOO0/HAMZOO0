@@ -72,15 +72,15 @@
 ## Full Stack Development & Gen AI
 | # | Project | Description |
 |---|---------|-------------|
-| 1. | [ScholarMind, AI Research Agent](https://github.com/HAMZOO0/ScholarMind-Research-Agent) | Autonomous research agent with a LangChain ReAct loop, persistent per-user SQLite memory, and 7 tools (web, arXiv + full PDF reading, PubMed, YouTube transcripts, GitHub). Features a 5-model Groq cascade for zero-drop rate-limit recovery, slash-command tool routing, and a FastMCP server. |
-| 2. | [Qdrant-Redis RAG Pipeline](https://github.com/HAMZOO0/Qdrant-Redis-RAG-Pipeline) | Production-style async RAG system that decouples the API from AI processing using Redis Queue workers. FastAPI returns a job ID instantly while background workers handle embedding, Qdrant vector search, and Groq LLM generation; clients poll for results. |
-| 3. | [AI-Assistant-CFO](https://github.com/HAMZOO0/AI-Assistant-CFO) | A comprehensive AI-powered financial management platform designed for CFOs, finance managers, and business owners to make better financial decisions through real-time data insights, forecasting, and AI-driven recommendations. |
-| 4. | [ecommerce-inventory-ejs-sqlite](https://github.com/HAMZOO0/ecommerce-inventory-ejs-sqlite) | E-commerce Product Inventory System built using Node.js, Express, EJS, and SQLite. Allows admins to manage products (CRUD operations) and sellers to manage their own inventory. |
-| 5. | [Mehfil](https://github.com/HAMZOO0/Mehfil) | A modern social media platform designed to connect users, share content, and foster online communities. Built with MERN stack, featuring user profiles, real-time interactions, and engaging interface. |
-| 6. | [Blog-Write](https://github.com/HAMZOO0/Blog-Write) | Full-featured blogging platform built with modern frontend tools. Users can create, update, and delete blog posts, as well as manage their accounts with rich user experience. |
-| 7. | [AnonyMe](https://github.com/HAMZOO0/AnonyMe) | A modern, full-stack web application built with Next.js that enables users to receive completely anonymous feedback from others while maintaining privacy and security. |
-| 8. | [SunPulse Voices](https://github.com/HAMZOO0/SunPulse-Voices) | SunPulse Voices is an innovative platform that bridges human emotions with scientific data from NASA. Users can anonymously share their thoughts and feelings, which are then analyzed using AI to correlate with space weather, climate patterns, and health impacts. The platform provides real-time visualizations and scientific insights based on NASA's extensive datasets. |
-| 9. | [CyberNewsMail](https://github.com) | Gen AI-powered newsletter system that automatically curates and sends daily cybersecurity news directly to your email. Keeps users up-to-date with latest threats, exploits, and industry insights. |
+| 1. | [AI-Assistant-CFO](https://github.com/HAMZOO0/AI-Assistant-CFO) | A comprehensive AI-powered financial management platform designed for CFOs, finance managers, and business owners to make better financial decisions through real-time data insights, forecasting, and AI-driven recommendations. |
+| 2. | [ecommerce-inventory-ejs-sqlite](https://github.com/HAMZOO0/ecommerce-inventory-ejs-sqlite) | E-commerce Product Inventory System built using Node.js, Express, EJS, and SQLite. Allows admins to manage products (CRUD operations) and sellers to manage their own inventory. |
+| 3. | [Mehfil](https://github.com/HAMZOO0/Mehfil) | A modern social media platform designed to connect users, share content, and foster online communities. Built with MERN stack, featuring user profiles, real-time interactions, and engaging interface. |
+| 4. | [Blog-Write](https://github.com/HAMZOO0/Blog-Write) | Full-featured blogging platform built with modern frontend tools. Users can create, update, and delete blog posts, as well as manage their accounts with rich user experience. |
+| 5. | [AnonyMe](https://github.com/HAMZOO0/AnonyMe) | A modern, full-stack web application built with Next.js that enables users to receive completely anonymous feedback from others while maintaining privacy and security. |
+| 6. | [SunPulse Voices](https://github.com/HAMZOO0/SunPulse-Voices) | SunPulse Voices is an innovative platform that bridges human emotions with scientific data from NASA. Users can anonymously share their thoughts and feelings, which are then analyzed using AI to correlate with space weather, climate patterns, and health impacts. The platform provides real-time visualizations and scientific insights based on NASA's extensive datasets. |
+| 7. | [CyberNewsMail](https://github.com) | Gen AI-powered newsletter system that automatically curates and sends daily cybersecurity news directly to your email. Keeps users up-to-date with latest threats, exploits, and industry insights. |
+| 8. | [ScholarMind, AI Research Agent](https://github.com/HAMZOO0/ScholarMind-Research-Agent) | Autonomous research agent with a LangChain ReAct loop, persistent per-user SQLite memory, and 7 tools (web, arXiv + full PDF reading, PubMed, YouTube transcripts, GitHub). Features a 5-model Groq cascade for zero-drop rate-limit recovery, slash-command tool routing, and a FastMCP server. |
+| 9. | [Qdrant-Redis RAG Pipeline](https://github.com/HAMZOO0/Qdrant-Redis-RAG-Pipeline) | Production-style async RAG system that decouples the API from AI processing using Redis Queue workers. FastAPI returns a job ID instantly while background workers handle embedding, Qdrant vector search, and Groq LLM generation; clients poll for results. |
 
 ## Blockchain Development ⛓️
 | # | Project | Description |
@@ -94,20 +94,20 @@
 ## Machine & Deep Learning
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
-| 1. | FloodSense-PK, Flood Intelligence & Early Warning | National flood monitoring platform for Pakistan fusing Sentinel-1 SAR + U-Net (ResNet34, IoU 0.55) flood detection, a 2010 Landsat-5 historical benchmark, and live FFD river data. Includes a four-agent disaster workflow, Qdrant-backed RAG assistant, React + FastAPI web console, and a Flet mobile alert app. [Live demo](https://floodsense-pk.streamlit.app/) | [FloodSense-PK](https://github.com/HAMZOO0/FloodSense-PK-RealTime-Flood-Detection-Sentinel1-UNet) |
-| 2. | Flow-Based Hybrid IDS | Real-time intrusion detection system fusing a rule-based heuristic engine with a PyTorch MLP (98.25% validation accuracy) to detect DoS, DDoS, port scanning, and brute-force attacks on live traffic. Logs to Supabase with a live dashboard and companion mobile app. | [Flow-Based-IDS](https://github.com/HAMZOO0/Flow-Based-IDS-with-Heuristic-DL-Fusion) |
-| 3. | Iris Dataset EDA | Exploratory Data Analysis on the classic Iris dataset with visualization and statistical insights. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
-| 4. | Tesla Stock Price Prediction | Time series forecasting model to predict Tesla stock prices using machine learning algorithms. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
-| 5. | Heart Disease Prediction | Medical diagnosis system using ML to predict heart disease risk based on patient data. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
-| 6. | News Topic Classifier Using BERT | NLP model using BERT transformer for automatic news article topic classification. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
-| 7. | End-to-End ML Pipeline | Complete machine learning pipeline using Scikit-learn Pipeline API for automated workflows. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
-| 8. | Multimodal Housing Price Prediction | Advanced housing price prediction using multiple data modalities and feature engineering. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
-| 9. | Bayesian Network | Implementation of Bayesian networks for probabilistic reasoning and inference. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
-| 10. | Minimax Algorithm | Game theory algorithm implementation for optimal decision making in two-player games. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
-| 11. | Tic-Tac-Toe with Minimax | Intelligent Tic-Tac-Toe game with unbeatable AI opponent using minimax algorithm. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
-| 12. | BFS Maze Game | Breadth-First Search implementation for solving maze puzzles and pathfinding. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
-| 13. | Search Algorithms (BFS/DFS) | Implementation of fundamental search algorithms for graph traversal and problem solving. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
-| 14. | BookBuddy AI | AI-powered mobile app connecting users with 20+ million books. Features book search, summaries, and AI chat for insights, recommendations, and story discussions. | [BookBuddy-AI](https://github.com/HAMZOO0/BookBuddy-AI) |
+| 1. | Iris Dataset EDA | Exploratory Data Analysis on the classic Iris dataset with visualization and statistical insights. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
+| 2. | Tesla Stock Price Prediction | Time series forecasting model to predict Tesla stock prices using machine learning algorithms. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
+| 3. | Heart Disease Prediction | Medical diagnosis system using ML to predict heart disease risk based on patient data. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
+| 4. | News Topic Classifier Using BERT | NLP model using BERT transformer for automatic news article topic classification. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
+| 5. | End-to-End ML Pipeline | Complete machine learning pipeline using Scikit-learn Pipeline API for automated workflows. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
+| 6. | Multimodal Housing Price Prediction | Advanced housing price prediction using multiple data modalities and feature engineering. | [Ai-Internship-Tasks](https://github.com/HAMZOO0/Ai-Internship-Tasks) |
+| 7. | Bayesian Network | Implementation of Bayesian networks for probabilistic reasoning and inference. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
+| 8. | Minimax Algorithm | Game theory algorithm implementation for optimal decision making in two-player games. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
+| 9. | Tic-Tac-Toe with Minimax | Intelligent Tic-Tac-Toe game with unbeatable AI opponent using minimax algorithm. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
+| 10. | BFS Maze Game | Breadth-First Search implementation for solving maze puzzles and pathfinding. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
+| 11. | Search Algorithms (BFS/DFS) | Implementation of fundamental search algorithms for graph traversal and problem solving. | [AI-Algorithms-and-Projects](https://github.com/HAMZOO0/AI-Algorithms-and-Projects) |
+| 12. | BookBuddy AI | AI-powered mobile app connecting users with 20+ million books. Features book search, summaries, and AI chat for insights, recommendations, and story discussions. | [BookBuddy-AI](https://github.com/HAMZOO0/BookBuddy-AI) |
+| 13. | FloodSense-PK, Flood Intelligence & Early Warning | National flood monitoring platform for Pakistan fusing Sentinel-1 SAR + U-Net (ResNet34, IoU 0.55) flood detection, a 2010 Landsat-5 historical benchmark, and live FFD river data. Includes a four-agent disaster workflow, Qdrant-backed RAG assistant, React + FastAPI web console, and a Flet mobile alert app. [Live demo](https://floodsense-pk.streamlit.app/) | [FloodSense-PK](https://github.com/HAMZOO0/FloodSense-PK-RealTime-Flood-Detection-Sentinel1-UNet) |
+| 14. | Flow-Based Hybrid IDS | Real-time intrusion detection system fusing a rule-based heuristic engine with a PyTorch MLP (98.25% validation accuracy) to detect DoS, DDoS, port scanning, and brute-force attacks on live traffic. Logs to Supabase with a live dashboard and companion mobile app. | [Flow-Based-IDS](https://github.com/HAMZOO0/Flow-Based-IDS-with-Heuristic-DL-Fusion) |
 
 ## Mobile Development
 | # | Project | Description | Repository |
@@ -160,23 +160,23 @@
 ## C++ Development
 | # | Project | Description | Repository |
 |---|---------|-------------|------------|
-| 1. | AgenticAST, LLM-Driven Compiler Security | Custom Flex/Bison compiler that exports the AST as JSON and passes it to a Groq-powered LLM agent (Llama 3.3-70B) for semantic security auditing, blocking unsafe code (e.g. infinite loops) before execution. | [AgenticAST](https://github.com/HAMZOO0/AgenticAST-LLM-Driven-Semantic-Security-in-Compilers) |
-| 2. | Betting Game | Console-based betting simulation game with multiple game modes and score tracking. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 3. | Blockchain Simulator | Basic blockchain implementation demonstrating core concepts and transaction validation. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 4. | Calculator with History | Advanced calculator with operation history, memory functions, and complex calculations. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 5. | Car Parking System | Automated parking management system with slot allocation and fee calculation. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 6. | Encrypted Password Management | Secure password storage system with encryption and user authentication. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 7. | HangMan Game | Interactive word-guessing game with multiple difficulty levels and scoring system. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 8. | Hospital Management System | Complete hospital management with patient records, appointments, and staff management. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 9. | Library Management System | Book inventory, member management, issue/return tracking, and fine calculation system. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 10. | Student Management System | Student records, grades, attendance tracking, and report generation system. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 11. | Restaurant Management System | Order management, menu handling, billing, and inventory tracking for restaurants. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 12. | OOP Currency Converter | Object-oriented currency converter with real-time rates and multiple currencies. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 13. | Pakistan Flag Display | Graphical representation of Pakistan flag using console graphics. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 14. | Note-Pad Application | Text editor with file operations, search/replace functionality using Graphics.h. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 15. | Snake Game | Classic snake game implementation with graphics, scoring, and collision detection. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
-| 16. | Breakout Game | Brick-breaking game with physics, power-ups, and multiple levels using SFML. | [SFML-Projects](https://github.com/HAMZOO0/SFML-Projects) |
-| 17. | Tic-Tac-Toe (SFML) | Interactive tic-tac-toe game with AI opponent and graphics interface. | [SFML-Projects](https://github.com/HAMZOO0/SFML-Projects) |
+| 1. | Betting Game | Console-based betting simulation game with multiple game modes and score tracking. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 2. | Blockchain Simulator | Basic blockchain implementation demonstrating core concepts and transaction validation. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 3. | Calculator with History | Advanced calculator with operation history, memory functions, and complex calculations. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 4. | Car Parking System | Automated parking management system with slot allocation and fee calculation. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 5. | Encrypted Password Management | Secure password storage system with encryption and user authentication. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 6. | HangMan Game | Interactive word-guessing game with multiple difficulty levels and scoring system. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 7. | Hospital Management System | Complete hospital management with patient records, appointments, and staff management. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 8. | Library Management System | Book inventory, member management, issue/return tracking, and fine calculation system. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 9. | Student Management System | Student records, grades, attendance tracking, and report generation system. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 10. | Restaurant Management System | Order management, menu handling, billing, and inventory tracking for restaurants. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 11. | OOP Currency Converter | Object-oriented currency converter with real-time rates and multiple currencies. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 12. | Pakistan Flag Display | Graphical representation of Pakistan flag using console graphics. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 13. | Note-Pad Application | Text editor with file operations, search/replace functionality using Graphics.h. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 14. | Snake Game | Classic snake game implementation with graphics, scoring, and collision detection. | [Cpp-Projects](https://github.com/HAMZOO0/Cpp-Projects) |
+| 15. | Breakout Game | Brick-breaking game with physics, power-ups, and multiple levels using SFML. | [SFML-Projects](https://github.com/HAMZOO0/SFML-Projects) |
+| 16. | Tic-Tac-Toe (SFML) | Interactive tic-tac-toe game with AI opponent and graphics interface. | [SFML-Projects](https://github.com/HAMZOO0/SFML-Projects) |
+| 17. | AgenticAST, LLM-Driven Compiler Security | Custom Flex/Bison compiler that exports the AST as JSON and passes it to a Groq-powered LLM agent (Llama 3.3-70B) for semantic security auditing, blocking unsafe code (e.g. infinite loops) before execution. | [AgenticAST](https://github.com/HAMZOO0/AgenticAST-LLM-Driven-Semantic-Security-in-Compilers) |
 
 ## Backend Development
 | # | Project | Description |
