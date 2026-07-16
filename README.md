@@ -38,7 +38,7 @@
 - **Tooling & DevOps:** `Git` `GitHub` `GitHub Actions` `Docker` `Linux` `Postman` `Vercel` `Netlify`
   <br>
 
----
+---  
 
 ## 📊 Weekly Coding Stats
 
