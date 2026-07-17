@@ -40,7 +40,7 @@
 
 ---  
 
-## 📊 Weekly Coding Stats
+## All Time Coding Stats
 
 <!--START_SECTION:waka-->
 
