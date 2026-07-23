@@ -62,7 +62,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">hamza@sajid</tspan> -————————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Windows 11, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 6 months, 21 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 6 months, 22 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Job</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Software Engineer</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Founder</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Zynxis, AI Services Startup</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Student</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">NUST, BS Computer Science</tspan>
