@@ -12,7 +12,6 @@
 **Founding Software Engineer @ Zynxis · Generative AI & Agentic AI Engineer · Full-Stack AI Systems Developer**
 
 - I build full-stack AI systems: LangChain / LangGraph agents, RAG pipelines, and MCP servers, on top of the MERN stack and Next.js
-- Founder & CEO of Zynxis, an AI service-based startup
 - Web3 & blockchain developer: Solidity smart contracts, Hardhat, Chainlink, IPFS
 - Cybersecurity researcher, currently working on a few research projects (intrusion detection, honeypots)
 - BS Computer Science at NUST (National University of Sciences & Technology), 2023 to present
