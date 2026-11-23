@@ -78,7 +78,7 @@ JavaScript    3 hrs 37 mins         █▓░░░░░░░░░░░░�
 
 # My Projects & Repositories
 
-## Cyber Security Research 🛡️
+## Cyber Security Research 
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [Specter OS](https://github.com/HAMZOO0/Specter-OS) | Fail-closed, transparently Tor-routed live Linux distribution built on Debian 13. Every connection is forced through Tor by an iptables/ip6tables kill-switch loaded before `network-pre.target`; if Tor fails the system goes offline instead of leaking. Closes DNS, UDP, ICMP, IPv6, early-boot and Tor-failure leak vectors, runs amnesic from RAM, and was evaluated under QEMU/KVM with full packet capture. Published as a [preprint on Zenodo](https://doi.org/10.5281/zenodo.24439519). |
