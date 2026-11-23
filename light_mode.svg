@@ -64,7 +64,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Windows 11, Linux</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 6 months, 16 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Job</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Software Engineer</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Founder</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Zynxis, AI Services Startup</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Cyber Security Researcher</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Student</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">NUST, BS Computer Science</tspan>
 <tspan x="390" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">VSCode, Cursor, Android Studio</tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Islamabad, Pakistan</tspan>

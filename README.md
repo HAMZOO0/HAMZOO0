@@ -9,12 +9,12 @@
 
 # Hamza Sajid
 
-**Founding Software Engineer @ Zynxis · Generative AI & Agentic AI Engineer · Full-Stack AI Systems Developer**
+**Software Engineer · Cyber Security Researcher · Generative AI & Agentic AI Engineer**
 
-- I build full-stack AI systems: LangChain / LangGraph agents, RAG pipelines, and MCP servers, on top of the MERN stack and Next.js
-- Founder & CEO of Zynxis, an AI service-based startup
+- Software engineer building full-stack AI systems: LangChain / LangGraph agents, RAG pipelines, and MCP servers, on top of the MERN stack and Next.js
+- Cyber security researcher: privacy-hardened operating systems, Android malware analysis, intrusion detection and honeypots
+- Author of the preprint *"Specter OS: A Fail-Closed, Transparently Tor-Routed Live Linux Distribution"* ([DOI: 10.5281/zenodo.24439519](https://doi.org/10.5281/zenodo.24439519))
 - Web3 & blockchain developer: Solidity smart contracts, Hardhat, Chainlink, IPFS
-- Cybersecurity researcher, currently working on a few research projects (intrusion detection, honeypots)
 - BS Computer Science at NUST (National University of Sciences & Technology), 2023 to present
 
 **Portfolio:** [New](https://hamza-sajid-portfolio.vercel.app/) · [Old](https://personal-portfolio-phi-mocha.vercel.app/)
@@ -32,7 +32,8 @@
 - **Backend:** `Node.js` `Express` `FastAPI` `Flask` `Streamlit` `REST APIs`
 - **Databases & Vector Stores:** `MongoDB` `MySQL` `SQLite` `Redis` `Qdrant` `Supabase` `Neo4j`
 - **Blockchain & Web3:** `Ethereum` `Solidity` `Hardhat` `Ethers.js` `Web3.js` `Wagmi` `Chainlink` `IPFS` `MetaMask`
-- **Cybersecurity:** `IDS` `Network Traffic Analysis` `Honeypots` `Nmap` `Packet Analysis`
+- **Cybersecurity:** `Tor` `iptables` `Linux Hardening` `Android Static Analysis` `jadx` `apktool` `IDS` `Network Traffic Analysis` `Honeypots` `Nmap` `tcpdump` `Packet Analysis`
+- **Static Analysis & Tooling:** `ts-morph` `AST Analysis` `Control-Flow Analysis` `esbuild`
 - **Compiler Construction:** `Flex` `Bison`
 - **IoT & Hardware:** `ESP32` `Arduino`
 - **Tooling & DevOps:** `Git` `GitHub` `GitHub Actions` `Docker` `Linux` `Postman` `Vercel` `Netlify`
@@ -77,6 +78,12 @@ Image (svg)   9 mins                ██░░░░░░░░░░░░�
 
 # My Projects & Repositories
 
+## Cyber Security Research 🛡️
+| # | Project | Description |
+|---|---------|-------------|
+| 1. | [Specter OS](https://github.com/HAMZOO0/Specter-OS) | Fail-closed, transparently Tor-routed live Linux distribution built on Debian 13. Every connection is forced through Tor by an iptables/ip6tables kill-switch loaded before `network-pre.target`; if Tor fails the system goes offline instead of leaking. Closes DNS, UDP, ICMP, IPv6, early-boot and Tor-failure leak vectors, runs amnesic from RAM, and was evaluated under QEMU/KVM with full packet capture. Published as a [preprint on Zenodo](https://doi.org/10.5281/zenodo.24439519). |
+| 2. | [Android APK Static Analysis](https://github.com/HAMZOO0/android-apk-static-analysis) | Static security assessment of a modded Android APK across 4 phases and 13 checks (fingerprinting, signer verification, jadx/apktool decompilation, code review for dynamic loaders, `Runtime.exec`, Telegram C2 and encoded payloads, native library imports). Includes a full PDF report, IOCs, and a reusable Bash triage script that runs the same checks on any APK. |
+
 ## Full Stack Development & Gen AI
 | # | Project | Description |
 |---|---------|-------------|
@@ -89,6 +96,7 @@ Image (svg)   9 mins                ██░░░░░░░░░░░░�
 | 7. | [CyberNewsMail](https://github.com) | Gen AI-powered newsletter system that automatically curates and sends daily cybersecurity news directly to your email. Keeps users up-to-date with latest threats, exploits, and industry insights. |
 | 8. | [ScholarMind, AI Research Agent](https://github.com/HAMZOO0/ScholarMind-Research-Agent) | Autonomous research agent with a LangChain ReAct loop, persistent per-user SQLite memory, and 7 tools (web, arXiv + full PDF reading, PubMed, YouTube transcripts, GitHub). Features a 5-model Groq cascade for zero-drop rate-limit recovery, slash-command tool routing, and a FastMCP server. |
 | 9. | [Qdrant-Redis RAG Pipeline](https://github.com/HAMZOO0/Qdrant-Redis-RAG-Pipeline) | Production-style async RAG system that decouples the API from AI processing using Redis Queue workers. FastAPI returns a job ID instantly while background workers handle embedding, Qdrant vector search, and Groq LLM generation; clients poll for results. |
+| 10. | CodexBridge *(private)* | Deterministic static-analysis engine that reads Express + TypeScript backends and turns them into plain-language product-journey documentation. Extracts routes, call graphs, control-flow guards, and database/SDK side effects with `file:line` evidence for every fact; reports a named UNKNOWN instead of guessing. An opt-in LLM layer only narrates already-proven facts, checked by a mechanical claim validator. Measured against hand-labeled golden datasets under a byte-identical regression gate. |
 
 ## Blockchain Development ⛓️
 | # | Project | Description |
